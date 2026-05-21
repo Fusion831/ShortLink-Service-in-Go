@@ -5,3 +5,6 @@ after completing this project, I will move onto RakshaSaathi to fully include in
 
 I will also have a notes folder where I explain every single thought process I have through the Project, been a while
 since I coded on my own.
+
+
+Planned TechStack: Go,OpenTelemetry, Docker, Grafana and I think Prometheus. I plan to use Gin framework for backend
